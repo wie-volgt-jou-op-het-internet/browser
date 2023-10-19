@@ -1148,7 +1148,8 @@
         "zone.com",
         "zootycooninsider.com",
         "zootycooninsider.net",
-        "zootycooninsider.org"
+        "zootycooninsider.org",
+        "vscode.dev"
     ],
     "http://192.168.88.100:7379/SET/apple/1/EX/5": [
         "aaplimg.com",
@@ -1780,6 +1781,7 @@
         "youtubeeducation.com",
         "youtubegaming.com",
         "yt.be",
-        "ytimg.com"
+        "ytimg.com",
+        "googlenestcommunity.com"
     ]
 }
