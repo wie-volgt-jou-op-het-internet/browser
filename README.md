@@ -7,4 +7,4 @@ The browser must communicate all tracker requests to the raspberry pi.
 
 ## Details
 - The browser sends a HTTP GET to the raspberry pi on tracker occurence.
-- [webdis](https://github.com/nicolasff/webdis) on raspberry pi processes HTTP GET, which contains the following [Redis command](https://redis.io/commands/set/):<br>`SET nameoftracker active EX 5` (key = name of tracker; value = `active`; expire after 5 seconds).
+- [webdis](https://github.com/nicolasff/webdis) on raspberry pi processes HTTP GET, which contains the following [Redis command](https://redis.io/commands/set/):<br>`SET nameoftracker 1 EX 5` (key = name of tracker; value = `1`; expire after 5 seconds).
