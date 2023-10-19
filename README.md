@@ -1,5 +1,5 @@
 # browser
-The browser must be configured to communicate all tracker occurences to the raspberry pi.
+The browser must be configured to communicate all requests to trackers to the raspberry pi.
 
 ## Set-up
 - Install Google Chrome
