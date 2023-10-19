@@ -1,5 +1,5 @@
 {
-    "http://192.168.88.100:7379/SET/facebook/active/EX/5": [
+    "http://192.168.88.100:7379/SET/facebook/1/EX/5": [
         "cdninstagram.com",
         "facebook-web-clients.appspot.com",
         "facebook.com",
@@ -178,7 +178,7 @@
         "whatsapp.com",
         "whatsapp.net"
     ],
-    "http://192.168.88.100:7379/SET/amazon/active/EX/5": [
+    "http://192.168.88.100:7379/SET/amazon/1/EX/5": [
         "3-amazonaws.com",
         "a2z.com",
         "alexa.com",
@@ -381,7 +381,7 @@
         "twitchmediagroup.com",
         "twitchsvc.net"
     ],
-    "http://192.168.88.100:7379/SET/microsoft/active/EX/5": [
+    "http://192.168.88.100:7379/SET/microsoft/1/EX/5": [
         "1drv.com",
         "a-msedge.net",
         "a1856.g2.akamai.net",
@@ -1150,7 +1150,7 @@
         "zootycooninsider.net",
         "zootycooninsider.org"
     ],
-    "http://192.168.88.100:7379/SET/apple/active/EX/5": [
+    "http://192.168.88.100:7379/SET/apple/1/EX/5": [
         "aaplimg.com",
         "airport.com",
         "apple-dns.net",
@@ -1202,7 +1202,7 @@
         "xserve.com",
         "xserve.net"
     ],
-    "http://192.168.88.100:7379/SET/x/active/EX/5": [
+    "http://192.168.88.100:7379/SET/x/1/EX/5": [
         "abs.twimg.com",
         "cms-twdigitalassets.com",
         "d2rdfnizen5apl.cloudfront.net",
@@ -1234,7 +1234,7 @@
         "twttr.com",
         "twttr.net"
     ],
-    "http://192.168.88.100:7379/SET/tiktok/active/EX/5": [
+    "http://192.168.88.100:7379/SET/tiktok/1/EX/5": [
         "amemv.com",
         "amemv.com.bsgslb.com",
         "amemv.com.download.ks-cdn.com",
@@ -1393,7 +1393,7 @@
         "xzcs3zlph.com.akamaized.net",
         "xzcs3zlph.com.edgesuite.net"
     ],
-    "http://192.168.88.100:7379/SET/google/active/EX/5": [
+    "http://192.168.88.100:7379/SET/google/1/EX/5": [
         "466453.com",
         "abc.xyz",
         "admob.com",
