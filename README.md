@@ -2,7 +2,7 @@
 The browser must communicate all tracker requests to the raspberry pi.
 
 ## Set-up
-- Install Google Chrome and the Webhook on Request extension.
+- Install Google Chrome and the [Webhook on Request](https://chrome.google.com/webstore/detail/webhook-on-request/omjifoffgbnhdgcmeepmgopiopkbafio) extension.
 - Configure Webhook on Request with `config.json`.
 
 ## Details
