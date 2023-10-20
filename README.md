@@ -1,5 +1,5 @@
 # browser
-The browser must communicate all tracker requests to the raspberry pi.
+The browser, running on the laptop, must communicate all tracker requests to the raspberry pi.
 
 ## Set-up
 - Install Google Chrome and the [Webhook on Request](https://chrome.google.com/webstore/detail/webhook-on-request/omjifoffgbnhdgcmeepmgopiopkbafio) extension.
